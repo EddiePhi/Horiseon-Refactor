@@ -24,6 +24,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Changed tag name from div to nav */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -85,6 +87,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Consolidated class rules for .benefit, h3, .benefit img, .service, .service img, & h2 */
 
 .benefit {
     margin-bottom: 32px;
